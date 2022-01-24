@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PumpApp</string>
+    <string name="channel_name">TEST1</string>
+    <string name="channel_description">This is a test of test</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
